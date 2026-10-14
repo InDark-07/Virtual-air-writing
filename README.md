@@ -51,18 +51,14 @@ The application separates hand tracking, gesture recognition, drawing operations
 ## Limitations
 
 Gesture recognition relies on relative landmark positions. Performance depends on lighting, hand orientation, webcam quality, and the installed dependency versions.
-keyboard shortcuts
-C
-Clear the entire canvas
-S
-Save the drawing to drawing.png
-=
-Increase brush thickness
--
-Decrease brush thickness
-]
-Increase eraser size
-[
-Decrease eraser size
-Q
-Quit the application
+
+
+
+## keyboard shortcuts
+C- Clear the entire canvas
+S- Save the drawing to drawing.png
+=- Increase brush thickness
+-- Decrease brush thickness
+]- Increase eraser size
+[- Decrease eraser size
+Q- Quit the application
